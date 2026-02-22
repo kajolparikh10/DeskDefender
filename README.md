@@ -1,1 +1,2 @@
 # DeskDefender
+DeskDefender is an integrated study ecosystem. We use an ESP-32 C3 to sense the physical environment via ultrasonic and mood sensors, which feeds a Python-based session manager. Simultaneously, we run YOLOv8 computer vision for active theft deterrence. All this data is harmonized with a global sleep health dataset and served through a Flask-Bootstrap dashboard to give the user actionable insights into their productivity and wellness.
